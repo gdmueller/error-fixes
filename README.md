@@ -75,7 +75,7 @@ This will push the commit to our remote github repository, the one we cloned.
 git push
 
 ```
-[Git Cheat Sheet](https://drive.google.com/drive/folders/0B7L2fC81yA9VQ1hrOHlGMW9tdFU)
+[Git Cheat Sheet](https://drive.google.com/file/d/0B4BwMqLSws0ZZi13N2FwZW4wa3M/view?usp=sharing)
 
 ## Authors
 
