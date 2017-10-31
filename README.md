@@ -42,14 +42,14 @@ node lesson.js
 Upon fixing the error in the file. You need to commit and push your changes.
 The proper git proceedure will be
 
-####Step 1
+#### Step 1
 
 Check the status files in red are new or changed, green means those files have been added.
 ```
 git status
 
 ```
-####Step 2
+#### Step 2
 
 Adding files to the staging area to be commited. git add . will add all the files
 that were listed in red during git status.
@@ -59,7 +59,7 @@ git add .
 
 ```
 
-####Step 3  
+#### Step 3  
 
 Now that we have added files to the staging area we need to commit to that code.
 It is important in the commit message to leave a short yet detailed message about 
