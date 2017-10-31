@@ -2,7 +2,7 @@
 
 In this repository is 17 javascript files that will test your javascript debugging skills.
 
-## Getting Started on the Lesson
+## Lesson Setup Forking and Cloning
 First you will need to fork the repo. This will create a copy of the repository on you github account this allows the repository's 
 owner to keep a clean working code base while you can make changes to the code on your own repo.
 To fork the repository look for the fork button at the top right, under your profile image.
@@ -15,9 +15,7 @@ Then copy the url. Now back in cloud9 in your bash terminal from you challenges 
 ```    
 Make sure to replace `< repo url>` with the url you copied from the repository on github. 
 Angle braces , `<>` commonly surround where the command needs information that is specific to you.
-
-
-Further instruction on forking and cloning can be found 
+If stuck further instruction on forking and cloning can be found 
 [here](https://docs.google.com/document/d/14byPrWvvdGPgPINLrZcSBIC6hEICGr2nkMpUctL3Yi4/edit#heading=h.9g8b9kmlg2ei)
 
 
@@ -26,6 +24,19 @@ Step 1
     cd into the projects directory after cloning. 
 ```
  cd fix-errors
+ 
+```
+Step 2 
+    To run any javascript file the command is:
+
+```
+node <file name>
+
+```
+For example to run lesson 1.
+```
+node lesson.js
+
 ```
 
 ### Break down into end to end tests
