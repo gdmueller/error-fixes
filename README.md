@@ -68,7 +68,7 @@ what you changed or fixed in this commit.
 git commit -m "message about what you did here"
 ```
 
-####Step 4
+#### Step 4
 
 This will push the commit to our remote github repository, the one we cloned. 
 ``` 
