@@ -1,11 +1,15 @@
 # Fixing Errors
 
-In this lesson you will recieve more practice debugging javascript code.
+In this repository is 17 javascript files that will test your javascript debugging skills.
 
-## Getting Started
-First you will need to fork the repo. This will create a copy of the repository on you github account.
-To fork the repository look at the button at the top right.
-further instruction on forking and cloning can be found 
+## Getting Started on the Lesson
+First you will need to fork the repo. This will create a copy of the repository on you github account this allows owner to keep a clean working code base while you can make changes on your own repo..
+To fork the repository look for the fork button at the top right, under your profile image.
+Once you fork the repository to your account you will then need to clone the project into cloud9. Cloning a repository
+
+
+
+Further instruction on forking and cloning can be found 
 [here](https://docs.google.com/document/d/14byPrWvvdGPgPINLrZcSBIC6hEICGr2nkMpUctL3Yi4/edit#heading=h.9g8b9kmlg2ei)
 
 
