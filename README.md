@@ -48,6 +48,7 @@ git status
 
 ```
 Step 2
+
 Adding files to the staging area to be commited. git add . will add all the files
 that were listed in red during git status.
 
