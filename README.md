@@ -3,7 +3,7 @@
 In this lesson you will recieve more practice debugging javascript code.
 
 ## Getting Started
-
+First you will need to fork the repo. This will create a copy of the repository on you github account.
 
 
 
