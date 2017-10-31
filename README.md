@@ -13,7 +13,7 @@ Then copy the url. Now back in cloud9 in your bash terminal from you challenges 
 ```
     git clone <repo url>
 ```    
-making sure to replace <repo url> witht the url you copied from the repository on github.
+making sure to replace `< repo url>` witht the url you copied from the repository on github.
 
 
 Further instruction on forking and cloning can be found 
