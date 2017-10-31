@@ -4,12 +4,15 @@ In this lesson you will recieve more practice debugging javascript code.
 
 ## Getting Started
 First you will need to fork the repo. This will create a copy of the repository on you github account.
+To fork the repository look at the button at the top right.
 
 
-
-## Running the tests
-
-Explain how to run the automated tests for this system
+## Running the files
+Step 1
+    cd into the projects directory after cloning. 
+```
+ cd fix-errors
+```
 
 ### Break down into end to end tests
 
