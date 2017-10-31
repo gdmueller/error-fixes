@@ -5,6 +5,8 @@ In this lesson you will recieve more practice debugging javascript code.
 ## Getting Started
 First you will need to fork the repo. This will create a copy of the repository on you github account.
 To fork the repository look at the button at the top right.
+further instruction on forking and cloning can be found 
+[here](https://docs.google.com/document/d/14byPrWvvdGPgPINLrZcSBIC6hEICGr2nkMpUctL3Yi4/edit#heading=h.9g8b9kmlg2ei)
 
 
 ## Running the files
