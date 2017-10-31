@@ -56,8 +56,7 @@ git add .
 
 ```
 
-Step 3
-Now that we have added files to the staging area we need to commit to that code.
+Step 3  Now that we have added files to the staging area we need to commit to that code.
 It is important in the commit message to leave a short yet detailed message about 
 what you changed or fixed in this commit.
 ```
