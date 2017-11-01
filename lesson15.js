@@ -1,6 +1,8 @@
-/*Invoke the function that is an argument of nameFilter function in the code above.
-        Expected  output in console:
-        this ran
+/*Invoke the anonymous function that is a parameter of nameFilter function
+Expected  output in console:
+
+        This Ran
+        This Ran
         ['John', 'Roger']
 */
 var people = [
