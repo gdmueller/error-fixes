@@ -79,8 +79,9 @@ git push
 ```
 [Git Cheat Sheet](https://drive.google.com/file/d/0B4BwMqLSws0ZZi13N2FwZW4wa3M/view?usp=sharing)
 
-### Tips
-    See error [guide](https://docs.google.com/document/d/1UXORxbWVZMqOFs3qd-xOad_-RDSAf4rHSwsaxoWbcWY/edit?usp=sharing)
+## Tips
+
+[See Error Guide](https://docs.google.com/document/d/1UXORxbWVZMqOFs3qd-xOad_-RDSAf4rHSwsaxoWbcWY/edit?usp=sharing)
 
 ## Authors
 
