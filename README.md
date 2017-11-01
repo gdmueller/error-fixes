@@ -1,6 +1,8 @@
 # Fixing Errors
 
-In this repository is 17 javascript files that will test your javascript debugging skills.
+In this repository you will find javascript files that all have errors. Read this 
+[Error Guide](https://docs.google.com/document/d/1UXORxbWVZMqOFs3qd-xOad_-RDSAf4rHSwsaxoWbcWY/edit?usp=sharing)
+and make to sure to make commits after fixing each bug.
 
 ## Lesson Setup Forking and Cloning
 First you will need to fork the repo. This will create a copy of the repository on you github account this allows the repository's 
