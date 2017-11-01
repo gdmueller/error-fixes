@@ -1,5 +1,6 @@
 /*Desired result Print out all names except the name passed into the function 
-######NOTE####### let is just another way to assign a variable like var except 
+                        ######NOTE####### 
+let is just another way to assign a variable like var except 
 it is locally scoped to the function. Var would assign our variable Globally in
 our code.
 */
