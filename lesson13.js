@@ -1,5 +1,8 @@
-//Desired Result filteredNames will not have the name that 
-//is passed into it as an argument
+/*Desired result the name or (argument) that is passed into the nameFilter 
+ function when invoked will be filtered out.
+ IE  nameFilter("Roger") would print
+ ["John", "Betty"]
+ */
 
 var people = [
     { name: "John", age: 55 },
@@ -19,6 +22,5 @@ var nameFilter = function(filteredName) {
     return results
 }
 
-//Error is Above
 var filteredNames = nameFilter("Roger")
 console.log(filteredNames)
