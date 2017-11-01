@@ -3,18 +3,18 @@
 it is locally scoped to the function. Var would assign our variable Globally in
 our code.
 */
-var people = [ 
-        { name: "John", age: 55 }, 
-        { name: "Roger", age: 44 },
-        { name: "Betty", age: 37 }
+var people = [
+    { name: "John", age: 55 },
+    { name: "Roger", age: 44 },
+    { name: "Betty", age: 37 }
     ]
 
-var nameFilter = function(name){
+var nameFilter = function(name) {
     let name = "Eric"
-    for ( var i = 0; i < people.length; i++  ){
-       let name = people[i].name
+    for (let i = 0; i < people.length; i++) {
+        let name = people[i].name
         if (name != filteredName) {
-         console.log("My Name is " + name )
+            console.log("My Name is " + name)
         }
     }
 }
