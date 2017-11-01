@@ -1,4 +1,5 @@
-//Disired Result filteredNames does not have "Roger in it"
+//Desired Result filteredNames will not have the name that 
+//is passed into it as an argument
 
 var people = [
     { name: "John", age: 55 },
