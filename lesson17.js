@@ -1,5 +1,5 @@
 /* Assuming you completed lesson 15 and 16 properly. Now rewrite
-the anonomous function using the arrow function.
+the anonymous function using the arrow function.
 
 Expected  output in console:
 
