@@ -1,11 +1,16 @@
 //Fix the error
 function myFunction() {
     let myObject = {
-        objProperty: "some text",
+        objProperty: 'some text',
         objMethod: function() {
-            console.log(objProperty);
+            return(objProperty);
         }
     };
-    myObject.objMethod();
+    return myObject.objMethod();
 }
-myFunction()
+myFunction();
+
+
+
+//no touch
+module.exports = myFunction;
