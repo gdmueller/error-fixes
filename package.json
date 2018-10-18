@@ -20,7 +20,7 @@
     "jest": "^23.6.0",
     "jest-expect-message": "SoftStackFactory/jest-expect-message"
   },
-    "jest": {
-        "setupTestFrameworkScriptFile": "jest-expect-message"
-    }
+  "jest": {
+    "setupTestFrameworkScriptFile": "jest-expect-message"
+  }
 }
