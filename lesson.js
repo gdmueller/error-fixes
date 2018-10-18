@@ -1,2 +1,7 @@
 var nam;
-console.log(name)
+
+function printName (){
+  console.log(name)
+}
+
+module.exports = printName;

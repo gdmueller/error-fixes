@@ -1,0 +1,26 @@
+{
+  "name": "fix-errors",
+  "version": "1.0.0",
+  "description": "In this repository you will find javascript files that all have errors. Read this  [Error Guide](https://docs.google.com/document/d/1UXORxbWVZMqOFs3qd-xOad_-RDSAf4rHSwsaxoWbcWY/edit?usp=sharing) and make to sure to make commits after fixing each bug.",
+  "main": "lesson.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoftStackFactory/fix-errors.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SoftStackFactory/fix-errors/issues"
+  },
+  "homepage": "https://github.com/SoftStackFactory/fix-errors#readme",
+  "dependencies": {
+    "jest": "^23.6.0",
+    "jest-expect-message": "SoftStackFactory/jest-expect-message"
+  },
+    "jest": {
+        "setupTestFrameworkScriptFile": "jest-expect-message"
+    }
+}
