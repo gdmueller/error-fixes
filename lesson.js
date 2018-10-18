@@ -4,4 +4,4 @@ function printName (){
   console.log(name)
 }
 
-module.exports = printName;
+printName();

@@ -3,14 +3,12 @@ function myFunction() {
     let myObject = {
         objProperty: 'some text',
         objMethod: function() {
-            return(objProperty);
+            console.log(objProperty);
         }
     };
-    return myObject.objMethod();
+    myObject.objMethod();
 }
 myFunction();
 
 
 
-//no touch
-module.exports = myFunction;
