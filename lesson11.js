@@ -15,6 +15,7 @@ var nameFilter = function(filteredName) {
             results.push(name)
         }
     }
+    return results;
 }
 
 var filteredNames = nameFilter("Betty")
